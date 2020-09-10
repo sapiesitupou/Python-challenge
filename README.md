@@ -104,7 +104,4 @@ Start early, and reach out for help often! Challenge yourself to identify specif
 
 Always commit your work and back it up with GitHub pushes. You don't want to lose hours of your work because you didn't push it to GitHub every half hour or so.
 
-Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-=======
-# Python-challenge
->>>>>>> e360ae073da0a76601fb62c24cab44e5bbc72bf5
+
